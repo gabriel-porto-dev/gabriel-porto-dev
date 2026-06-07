@@ -63,17 +63,22 @@ Throughout my journey, I've grown in areas such as **software architecture, code
 ---
 
 <!-- =====================================================
-  GitHub stats — github_dark theme
+  GitHub stats — using github-profile-summary-cards.
+  The original github-readme-stats service is often
+  rate-limited / paused; this alternative is more stable.
 ===================================================== -->
 
 ## 📊 GitHub Stats
 
 <p align="center">
   <a href="https://github.com/gabriel-porto-dev">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=gabriel-porto-dev&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="Gabriel's GitHub stats"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gabriel-porto-dev&theme=github_dark" alt="Gabriel's GitHub stats"/>
   </a>
   <a href="https://github.com/gabriel-porto-dev">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-porto-dev&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top languages"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gabriel-porto-dev&theme=github_dark" alt="Most used languages by repository"/>
+  </a>
+  <a href="https://github.com/gabriel-porto-dev">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gabriel-porto-dev&theme=github_dark" alt="Most used languages by commits"/>
   </a>
 </p>
 
